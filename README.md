@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @balboeng
 - 👀 I’m interested in trend web UI & performants Techs
-- 🌱 I’m currently learning Go Lang
+- 🌱 I’m currently learning Go Lang, Web 3 & Blockchain.
 - 💞️ I’m looking to collaborate on any project that improve my skills, im open to work :)
 - 📫 How to reach me : at +57 3163249106
 
